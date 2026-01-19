@@ -56,20 +56,10 @@ header {
              align-items:center;
              justify-content:center;
              text-align:center;
-             color:rgb(253, 253, 253);
+             color:rgb(173, 116, 31);
              padding:20px
         }
-        .hero h2 {
-             font-size: 48px;
-              max-width: 800px;
-              height: gevh;
-             display: flex;
-             align-items:center;
-             justify-content: center;
-             text-align:center;
-             color: black;
-             padding:20px
-        }
+     
         .hero h2{
             font-size:48px;
             max-width:800px
@@ -82,7 +72,7 @@ header {
         }
 
         .cta-btn {
-            background:•#f4b400;
+            background:#f4b400;
             color: #111;
             padding: 15px 30px;
             border:none;
