@@ -2,3 +2,5 @@ User=agent:*
 Allow: /
 Disallow: /private/
 Disallow: /admin/
+
+sitmap:https://liljayla83-bit.github.io/jylahumanhairgh/sitemap.xml
