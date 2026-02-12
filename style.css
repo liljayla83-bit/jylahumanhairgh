@@ -26,8 +26,7 @@ header {
             }
        nav a:hover { color:•#f4b400; }
          .hero {
-             background:
-              url('image/Gemini_Generated_Image_lkp661lkp661lkp6.png') center/cover no-repeat;
+             background: url("index-image/web\ foto.jpeg") ;
              height:90vh;
              display:flex;
              align-items:center;
@@ -119,4 +118,3 @@ header {
             padding: 20px;
             margin: top 40px;
            }
-
